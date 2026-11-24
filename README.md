@@ -1,5 +1,3 @@
-> **Version 1: logo takes the site colours.** The site keeps its teal and navy theme; the logo uses the site's button blue (`--brand` in `styles.css`) and reverses to white in dark mode.
-
 # HICAD Systems Limited — Static Website
 
 A lightweight company portfolio website built with plain HTML, CSS and vanilla JavaScript.
@@ -69,8 +67,8 @@ HICAD Systems Limited · RC. 129908 · Computer & Communications Consultants
 
 1st Floor, Ibu-Owo House, 39, Osolo Way, off International Airport Road, Ajao Estate, Lagos, Nigeria.
 
-Phone: 08033325827  
-Email: info@hicadsystemsltd.com  
+Phone: 08033325827
+Email: info@hicadsystemsltd.com
 Website: www.hicadsystemsltd.com
 
 ## Content notes
@@ -94,3 +92,6 @@ Already built in, on every page:
 - If the site moves to another domain: replace `www.hicadsystemsltd.com` in `.htaccess`, `sitemap.xml`, `robots.txt`, and the canonical, social and JSON-LD tags in every page.
 
 **Outside the website files** (done on Google's side, not here): add the site to Google Search Console and submit `sitemap.xml`, and create a Google Business Profile for the Lagos office.
+
+
+> **Version 1: logo takes the site colours.** The site keeps its teal and navy theme; the logo uses the site's button blue (`--brand` in `styles.css`) and reverses to white in dark mode.
